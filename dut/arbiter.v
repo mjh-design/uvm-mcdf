@@ -156,4 +156,3 @@ module arbiter(
     assign a2f_pkglen_sel_o = a2f_pkglen_sel_r;
 
 endmodule
-module
